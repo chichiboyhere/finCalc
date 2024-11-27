@@ -18,10 +18,10 @@ const BottomTabOverview = () =>{
   return(
     <BottomTabs.Navigator 
        screenOptions={ ({navigation}) => ({
-        headerStyle: {backgroundColor :'cornflowerblue' },
+        headerStyle: {backgroundColor :'#0A5C36' },
         headerTintColor: "white",
-        tabBarStyle:{backgroundColor :'cornflowerblue' },
-        tabBarActiveTintColor:'blue', 
+        //tabBarStyle:{backgroundColor :'' },
+        tabBarActiveTintColor:'#0A5C36', 
         
         })}>
       <BottomTabs.Screen 
@@ -59,7 +59,7 @@ export default function App() {
          <NavigationContainer>
             <Stack.Navigator
                screenOptions={{
-               headerStyle: { backgroundColor: 'cornflowerblue'},
+               headerStyle: { backgroundColor: '#0A5C36'},
                headerTintColor: 'white'
                }}
             >

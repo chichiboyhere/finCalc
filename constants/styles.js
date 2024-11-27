@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     },
     
     input: {
-          borderWidth: 1,
+          borderWidth: 3,
           borderColor: '#ccc',
           borderRadius: 10,
           padding: 10,
@@ -24,8 +24,7 @@ const styles = StyleSheet.create({
       },
       title: {
           fontSize: 20,
-          fontWeight: 'bold',
-          
+          fontWeight: 'bold',   
       },
       subTitle:{
          fontSize: 16,
@@ -42,7 +41,7 @@ const styles = StyleSheet.create({
         gap: 15
       },
       timeInput: {
-        borderWidth: 1,
+        borderWidth: 3,
         borderColor: '#ccc',
         borderRadius: 10,
         padding: 10,
@@ -51,6 +50,7 @@ const styles = StyleSheet.create({
         width: '45%'
       },
       text: {
+          fontWeight: 'bold',
           marginBottom: 4
       },
       

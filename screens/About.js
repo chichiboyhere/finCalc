@@ -49,12 +49,12 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         fontWeight: 'bold',
         paddingHorizontal: 20,
-        paddingVertical: 2,
+        paddingVertical: 7,
         borderRadius: 10,
-        backgroundColor: 'cornflowerblue',
+        backgroundColor: '#0A5C36',
         borderColor: 'gray',
         borderWidth: 3,
-        marginVertical: 10,
+        marginVertical: 15,
         color: 'white'
     },
     list: {

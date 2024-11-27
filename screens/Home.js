@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'black'
   },
   buttonDeco : {
-    backgroundColor: "cornflowerblue",
+    backgroundColor: "#0A5C36",
     borderWidth: 2,
     borderColor: "white",
     margin: 8,
